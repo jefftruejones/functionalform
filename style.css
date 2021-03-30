@@ -1,0 +1,16 @@
+form {
+  display: block;
+}
+label {
+  display: block;
+}
+input {
+  width: 35em;
+}
+#form-message {
+  height: 25em;
+  width: 50%;
+}
+button {
+  display: block;
+}
